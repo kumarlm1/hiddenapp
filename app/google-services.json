@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "516352087346",
+    "project_id": "messageapp-ddddf",
+    "storage_bucket": "messageapp-ddddf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516352087346:android:efa84fb8eba20e57f7b32b",
+        "android_client_info": {
+          "package_name": "com.example.appication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "516352087346-iaovg35s1gm1vq67ltlc60m882d0slck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJDCVxEdiS_fbCiG6Pz2RrgS6vTiAKvlI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "516352087346-iaovg35s1gm1vq67ltlc60m882d0slck.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
